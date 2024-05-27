@@ -2,6 +2,8 @@ body {
   font: 400 15px Lato, sans-serif;
   line-height: 1.8;
   color: #818181;
+  width: 80%;
+  margin: auto;
 }
 h2 {
   font-size: 24px;
